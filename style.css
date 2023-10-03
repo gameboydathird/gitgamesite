@@ -5,7 +5,7 @@ p {
   }
 
   body {
-    background-image: url(https://wallpapercave.com/wp/wp2578580.jpg);
+    background-image: url();
     background-size: cover;
   }
 
@@ -19,4 +19,7 @@ p {
 
   h3 {
     color: white;
+  }
+  a {
+    size: 24px;
   }
